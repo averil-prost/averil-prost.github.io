@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Stuff
 ---
 
-Incoming page. 
-Jekyll doc : [jekyllrb.com](https://jekyllrb.com/)
-Jekyll code: [jekyll][jekyll-organization] /
+# Just to see
 
-[jekyll-organization]: https://github.com/jekyll
+## This should be 
+
+A first paragraph. 
+If I remember well
+
+## This should be 
+
+another.
