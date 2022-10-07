@@ -59,8 +59,8 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: #858585;
+  background-color: #101010;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   /* margin-bottom: .5rem; */
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #a2a2a2;
   /* text-rendering: optimizeLegibility; */
 }
 h1 {
@@ -105,14 +105,17 @@ h4, h5, h6 {
 /* Body text */
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
-  margin-left: 1rem;
 }
 
+p ind {
+  margin-top: 0;
+}
+
+/*
 strong {
   color: #303030;
 }
-
+*/
 
 /* Lists */
 ul, ol, dl {
@@ -238,19 +241,21 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #e5e5e5;
+  border: 0px solid #e5e5e5;
   border-collapse: collapse;
 }
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #e5e5e5;
+  border: 0px solid #e5e5e5;
 }
+
+/*
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-
+*/
 
 /*
  * Custom type

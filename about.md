@@ -3,13 +3,5 @@ layout: page
 title: Stuff
 ---
 
-# Just to see
-
-## This should be 
-
-A first paragraph. 
-If I remember well
-
-## This should be 
-
-another.
+Nothing for now, it's just to test creation of pages. \\
+Sorry.
