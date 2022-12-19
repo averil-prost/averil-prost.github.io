@@ -7,7 +7,7 @@ title: Home
 
 What I did recently:
 
-◆ 2022 - 2025 PhD with [Hasnaa Zidani](http://lmi2.insa-rouen.fr/~hzidani/) and [Nicolas Forcadel](http://lmi2.insa-rouen.fr/~nforcadel/), about _optimal control problems in measure spaces_. 
+◆ since 2022  PhD with [Hasnaa Zidani](http://lmi2.insa-rouen.fr/~hzidani/) and [Nicolas Forcadel](http://lmi2.insa-rouen.fr/~nforcadel/), about _optimal control problems in measure spaces_. 
 
 ◆ 2017 - 2022 Engineering school [INSA Rouen Normandie](https://www.insa-rouen.fr/). Graduated as engineer in applied mathematics.
 
