@@ -11,7 +11,7 @@ What I did recently:
 
 ◆ 2017 - 2022 Engineering school [INSA Rouen Normandie](https://www.insa-rouen.fr/). Graduated as engineer in applied mathematics.
 
-More details in [my CV](./public/CV.pdf). 
+More details in [my CV](./public/documents/CV.pdf). 
 
 lab	| LMI (EA 3226 - FR CNRS 3335)  
 email   | <averil.prost@insa-rouen.fr>  

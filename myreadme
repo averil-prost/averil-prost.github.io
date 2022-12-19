@@ -1,0 +1,5 @@
+executer le site en local : bundle exec jekyll serve
+create a page : 
+- create the file.md
+- put layout to page
+- fill it. 
